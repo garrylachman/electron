@@ -1,74 +1,10 @@
-[![Electron Logo](http://electron.atom.io/images/electron-logo.svg)](http://electron.atom.io/)
+Proxy Server and its Many Types 
+The Internet is known to have vulnerabilities despite how advanced it is especially when it comes to privacy. It is a fact that information on the Internet cannot be exactly deleted in the entire network. There is also the fact that when you search and requests for websites, they can see exactly when and what pages you opened. Additionally, the government is also privy to the information that is available on the Internet. With that being the case, you can see that everything you do on the Internet can be seen and accessed by just about anyone who can operate a computer. Fortunately, there is a way in which you can protect yourself from the prying eyes of all those in the Internet and that is through the use of a proxy server. 
+What is Proxy Server?
 
-[![Build Status](https://travis-ci.org/atom/electron.svg?branch=master)](https://travis-ci.org/atom/electron)
-[![devDependency Status](https://david-dm.org/atom/electron/dev-status.svg)](https://david-dm.org/atom/electron#info=devDependencies)
-[![Join the Electron Community on Slack](http://atom-slack.herokuapp.com/badge.svg)](http://atom-slack.herokuapp.com/)
+A [proxy server](https://rev.proxies.online/) is actually just a computer, but it is a computer that acts as an intermediary between you and the rest of computers around the world. Proxy servers offer a network service which allows your home machine to connect with other network services indirectly. Setting it up is actually quite simple with you connecting to a proxy server and then proceeds on requesting a connection, website, file and other resource on the Internet and instead of your IP (Internet Protocol) address it is the proxy server’s IP address that website’s get. In that sense, you are protected from the prying eyes of website owners and the rest of the world through. Basically, you are masked from the rest of the world and so you can surf undetected all you want. 
+Types of Proxies 
 
-:zap: *Formerly known as Atom Shell* :zap:
-
-The Electron framework lets you write cross-platform desktop applications
-using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) and
-[Chromium](http://www.chromium.org) and is used in the [Atom
-editor](https://github.com/atom/atom).
-
-Follow [@ElectronJS](https://twitter.com/electronjs) on Twitter for important
-announcements.
-
-This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable
-behavior to atom@github.com.
-
-## Downloads
-
-Prebuilt binaries and debug symbols of Electron for Linux, Windows and OS X can
-be found on the [releases](https://github.com/atom/electron/releases) page.
-
-You can also use [`npm`](https://docs.npmjs.com/) to install prebuilt electron
-binaries:
-
-```sh
-# Install the `electron` command globally in your $PATH
-npm install electron-prebuilt -g
-
-# Install as a development dependency
-npm install electron-prebuilt --save-dev
-```
-
-### Mirrors
-
-- [China](https://npm.taobao.org/mirrors/electron)
-
-## Documentation
-
-Guides and the API reference are located in the
-[docs](https://github.com/atom/electron/tree/master/docs) directory. It also
-contains documents describing how to build and contribute to Electron.
-
-## Documentation Translations
-
-- [Brazilian Portuguese](https://github.com/atom/electron/tree/master/docs-translations/pt-BR)
-- [Korean](https://github.com/atom/electron/tree/master/docs-translations/ko-KR)
-- [Japanese](https://github.com/atom/electron/tree/master/docs-translations/jp)
-- [Spanish](https://github.com/atom/electron/tree/master/docs-translations/es)
-- [Simplified Chinese](https://github.com/atom/electron/tree/master/docs-translations/zh-CN)
-- [Traditional Chinese](https://github.com/atom/electron/tree/master/docs-translations/zh-TW)
-- [Ukrainian](https://github.com/atom/electron/tree/master/docs-translations/uk-UA)
-- [Russian](https://github.com/atom/electron/tree/master/docs-translations/ru-RU)
-
-## Quick Start
-
-Clone and run the [`atom/electron-quick-start`](https://github.com/atom/electron-quick-start)
-repository to see a minimal Electron app in action.
-
-## Community
-
-You can ask questions and interact with the community in the following
-locations:
-- [`electron`](http://discuss.atom.io/c/electron) category on the Atom
-forums
-- `#atom-shell` channel on Freenode
-- [`Atom`](http://atom-slack.herokuapp.com/) channel on Slack
-- [`electron-br`](https://electron-br.slack.com) *(Brazilian Portuguese)*
-
-Check out [awesome-electron](https://github.com/sindresorhus/awesome-electron)
-for a community maintained list of useful example apps, tools and resources.
+Web proxy is one of the most common proxy applications used. With web proxy, you can have a list of cache of nearby web pages, files and other information from far-flung Web servers. This way, other network clients are able to access such web pages quicker and more reliable. There are different types of proxy servers that you can use. They differ from the purpose and design they serve. Some of these proxies include the transparent and anonymous proxy as well as the distorting and high anonymity proxies. 
+Just like as the name suggest, transparent proxy is one that identifies itself as a proxy server. Being transparent, clients know that the computer requesting is a proxy, plus the fact that the original IP address is available as well. Transparent proxies are typically used for their capability to cache websites. On the other hand, the anonymous proxy is the types that identifies itself as a proxy server but does not make the original IP address available and provides just enough anonymity. 
+The distorting proxy server is the same as the transparent but instead of giving the original IP address it gives an incorrect IP address while the high anonymity types works just the same but does not give your home machine’s original IP address. These are some of the different types of proxy servers that you can use to protect yourself and your personal information from the prying eyes of the rest of computer users. 
